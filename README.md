@@ -20,3 +20,9 @@ Additional Questions Solved
 2. Next Greater Element Stack
 3. Rotten Oranges Queue
 4. Largest Rectangle Histogram Stack
+
+## Day 3 : HashMap
+
+minimizeAverageTime
+ADitional Question Solved
+1. Implement HashMap using LinkedList
