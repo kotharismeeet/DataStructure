@@ -26,3 +26,7 @@ Additional Questions Solved
 minimizeAverageTime
 ADitional Question Solved
 1. Implement HashMap using LinkedList
+
+## Day 4 : HashMap
+
+1. Largest Subarray with Sum Zero
