@@ -30,3 +30,9 @@ ADitional Question Solved
 ## Day 4 : HashMap
 
 1. Largest Subarray with Sum Zero
+
+## Day 6 : Sorting Algorithms
+
+1. Counting Sort
+2. Radix Sort
+3. Shell Sort
