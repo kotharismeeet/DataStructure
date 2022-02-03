@@ -36,3 +36,14 @@ ADitional Question Solved
 1. Counting Sort
 2. Radix Sort
 3. Shell Sort
+
+## Day 7 : Tree Traversals
+
+1. preorder
+2. inorder
+3. postorder
+
+## Day 8 : BST
+
+1. LCA_BST
+2. sorted Array to BST
